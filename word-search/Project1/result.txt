@@ -1,0 +1,6 @@
+Lorem ***** dolor mi sit amet, consectetur mi adipiscing mi elit. Integer ac tellus mi.
+-----------------------------
+File name: text.txt
+File size: 147 bytes
+Number of replacements: 1
+-----------------------------
